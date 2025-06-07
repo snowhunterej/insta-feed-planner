@@ -3,8 +3,8 @@ import InstagramGrid from './InstagramGrid';
 
 export default function App() {
   return (
-    <div>
-      <h1>Insta Feed Planner</h1>
+    <div className="min-h-screen bg-gray-50">
+      <h1 className="text-2xl font-bold text-center my-4">Insta Feed Planner</h1>
       <InstagramGrid />
     </div>
   );
