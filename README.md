@@ -1,6 +1,7 @@
 # Insta Feed Planner
 
-This project is a minimal Vite + React + Tailwind CSS setup. The main page renders an `InstagramGrid` component that shows placeholder images in a 3‑column layout.
+This project uses Vite, React and Tailwind CSS to demonstrate a simple Instagram planning grid.
+Posts can be reordered via drag and drop, and clicking a post opens a modal where its status and tags can be edited.
 
 ## Development
 
